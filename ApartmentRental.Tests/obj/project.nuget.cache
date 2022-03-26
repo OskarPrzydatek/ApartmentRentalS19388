@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6j9dsBiHWCzJRnDygfQ6mWv/5qgkoypfUIgLnPtgShLvRP+g6VHxA2n4aj4SFWz0oMeR42GmEl2UsLZ0YJ8Q1g==",
+  "dgSpecHash": "UTkxa8PxyFX+El1pVeBuGPfDdYy8F2GeS2MKb+tkYcmz/ScCFIyn4ysGSvMZ4Xvv5Ysmh/+bYzhurcHGmUvO5A==",
   "success": true,
-  "projectFilePath": "\\\\gda-nas\\s19388\\windows\\desktop\\DOT\\ApartmentRental.API\\ApartmentRental.Tests\\ApartmentRental.Tests.csproj",
+  "projectFilePath": "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Tests/ApartmentRental.Tests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
