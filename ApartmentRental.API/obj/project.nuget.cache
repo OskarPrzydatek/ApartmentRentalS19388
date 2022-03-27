@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rGefGIUmeiGZ3ur2Oy85kuARh+3C7KczZ0lEqbMTpJ0nevt9fSHYJkvDXQ4OrVlBPC0DWrtMj6cIHj6IO27jYA==",
+  "dgSpecHash": "wIYEY1mpSk9fGB3UPceWcRxpWfUG7MIDCykN01UH1B82fYVJmgsbd56GwE7DHL/RGM/KBQsVdnaGKs/i/CZUfw==",
   "success": true,
   "projectFilePath": "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.API/ApartmentRental.API.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "/home/oprzydatek/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.3/microsoft.entityframeworkcore.relational.6.0.3.nupkg.sha512",
     "/home/oprzydatek/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.3/microsoft.entityframeworkcore.sqlite.6.0.3.nupkg.sha512",
     "/home/oprzydatek/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.3/microsoft.entityframeworkcore.sqlite.core.6.0.3.nupkg.sha512",
+    "/home/oprzydatek/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.3/microsoft.entityframeworkcore.tools.6.0.3.nupkg.sha512",
     "/home/oprzydatek/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/oprzydatek/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/home/oprzydatek/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",

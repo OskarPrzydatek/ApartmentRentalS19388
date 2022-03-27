@@ -1,0 +1,17 @@
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Infrastructure.deps.json
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Infrastructure.dll
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Infrastructure.pdb
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Core.dll
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Core.pdb
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.csproj.AssemblyReference.cache
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.AssemblyInfoInputs.cache
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.AssemblyInfo.cs
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.csproj.CoreCompileInputs.cache
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.csproj.CopyComplete
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.dll
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/refint/ApartmentRental.Infrastructure.dll
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.pdb
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ref/ApartmentRental.Infrastructure.dll
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/bin/Debug/net6.0/ApartmentRental.Infrastructure.runtimeconfig.json
+/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/obj/Debug/net6.0/ApartmentRental.Infrastructure.genruntimeconfig.cache
