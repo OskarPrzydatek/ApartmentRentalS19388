@@ -1391,6 +1391,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "ApartmentRental.Core >= 1.0.0",
       "ApartmentRental.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.3",
@@ -1424,6 +1425,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Core/ApartmentRental.Core.csproj": {
+              "projectPath": "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Core/ApartmentRental.Core.csproj"
+            },
             "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/ApartmentRental.Infrastructure.csproj": {
               "projectPath": "/home/oprzydatek/DotNet/ApartmentRentalS19388/ApartmentRental.Infrastructure/ApartmentRental.Infrastructure.csproj"
             }
